@@ -1,4 +1,4 @@
-package d2;
+package main3;
 
 public class Main3 {
 

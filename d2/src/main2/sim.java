@@ -1,4 +1,4 @@
-package d2;
+package main2;
 
 public class sim {
 	

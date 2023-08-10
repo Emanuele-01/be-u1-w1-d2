@@ -1,4 +1,4 @@
-package d2;
+package main1;
 
 public class Rettangolo {
 	
